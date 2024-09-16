@@ -1,0 +1,71 @@
+[{
+        "id": 1,
+        "first_name": "Waring",
+        "last_name": "Rozzell",
+        "email": "wrozzell0@so-net.ne.jp",
+        "gender": "Male"
+    },
+    {
+        "id": 2,
+        "first_name": "Barrett",
+        "last_name": "Hailwood",
+        "email": "bhailwood1@netlog.com",
+        "gender": "Male"
+    },
+    {
+        "id": 3,
+        "first_name": "Renell",
+        "last_name": "Cowley",
+        "email": "rcowley2@purevolume.com",
+        "gender": "Female"
+    },
+    {
+        "id": 4,
+        "first_name": "Kleon",
+        "last_name": "McCleverty",
+        "email": "kmccleverty3@myspace.com",
+        "gender": "Male"
+    },
+    {
+        "id": 5,
+        "first_name": "Dun",
+        "last_name": "Moffat",
+        "email": "dmoffat4@diigo.com",
+        "gender": "Male"
+    },
+    {
+        "id": 6,
+        "first_name": "Domingo",
+        "last_name": "Skrines",
+        "email": "dskrines5@acquirethisname.com",
+        "gender": "Male"
+    },
+    {
+        "id": 7,
+        "first_name": "Georgeanna",
+        "last_name": "Gioan",
+        "email": "ggioan6@cnn.com",
+        "gender": "Female"
+    },
+    {
+        "id": 8,
+        "first_name": "Ainslee",
+        "last_name": "Lothean",
+        "email": "alothean7@dailymotion.com",
+        "gender": "Female"
+    },
+    {
+        "id": 9,
+        "first_name": "Glennie",
+        "last_name": "Humberstone",
+        "email": "ghumberstone8@who.int",
+        "gender": "Female"
+    },
+    {
+        "id": 10,
+        "first_name": "Ranee",
+        "last_name": "Fundell",
+        "email": "rfundell9@com.com",
+        "gender": "Female"
+    }
+]
